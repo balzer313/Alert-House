@@ -1,0 +1,106 @@
+2024-01-05 15:28:26,697 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:28:34,777 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:28:39,760 - INFO - Accepted connection from ('127.0.0.1', 50384)
+2024-01-05 15:28:44,327 - INFO - handle client...
+2024-01-05 15:28:44,327 - INFO - received: LOGIN     |||000009|||user:dsd:
+2024-01-05 15:28:44,331 - ERROR - sent: ERROR     |||000066|||My Gootz, it seems like the username, password or city isn't right
+2024-01-05 15:28:50,762 - INFO - handle client...
+2024-01-05 15:28:50,764 - INFO - received: LOGIN     |||000023|||user1:password1:\u05d0\u05d1\u05d5-\u05d2\u05d5\u05e9
+2024-01-05 15:28:50,769 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 15:28:50,769 - INFO - now logged users are: {('127.0.0.1', 50384): 'user1'}
+2024-01-05 15:28:53,108 - INFO - handle client...
+2024-01-05 15:28:53,108 - INFO - received: LOGGED    |||000000|||
+2024-01-05 15:28:53,108 - INFO - sent: MESSAGE   |||000005|||user1
+2024-01-05 15:28:54,929 - INFO - handle client...
+2024-01-05 15:28:54,929 - INFO - received: ALERT     |||000000|||
+2024-01-05 15:28:54,929 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 15:29:05,361 - INFO - handle client...
+2024-01-05 15:29:42,257 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:29:53,236 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:29:55,562 - INFO - Accepted connection from ('127.0.0.1', 50409)
+2024-01-05 15:30:03,675 - INFO - handle client...
+2024-01-05 15:30:03,676 - INFO - received: LOGIN     |||000023|||user1:password1:\u05d0\u05d1\u05d8\u05dc\u05d9\u05d5\u05df
+2024-01-05 15:30:03,681 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 15:30:03,681 - INFO - now logged users are: {('127.0.0.1', 50409): 'user1'}
+2024-01-05 15:30:05,509 - INFO - handle client...
+2024-01-05 15:30:05,509 - INFO - received: LOGGED    |||000000|||
+2024-01-05 15:30:05,510 - INFO - sent: MESSAGE   |||000005|||user1
+2024-01-05 15:30:07,097 - INFO - handle client...
+2024-01-05 15:30:07,097 - INFO - received: ALERT     |||000000|||
+2024-01-05 15:30:07,097 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 15:30:17,374 - INFO - handle client...
+2024-01-05 15:30:17,374 - INFO - received: VIDEO     |||265291|||video bytes
+2024-01-05 15:33:17,570 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:33:23,552 - INFO - Accepted connection from ('127.0.0.1', 50481)
+2024-01-05 15:33:30,617 - INFO - handle client...
+2024-01-05 15:33:30,617 - INFO - received: LOGIN     |||000024|||user1:password1:\u05d0\u05d1\u05d5 \u05ea\u05dc\u05d5\u05dc
+2024-01-05 15:33:30,622 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 15:33:30,622 - INFO - now logged users are: {('127.0.0.1', 50481): 'user1'}
+2024-01-05 15:33:31,993 - INFO - handle client...
+2024-01-05 15:33:31,994 - INFO - received: LOGGED    |||000000|||
+2024-01-05 15:33:31,994 - INFO - sent: MESSAGE   |||000005|||user1
+2024-01-05 15:33:32,948 - INFO - handle client...
+2024-01-05 15:33:32,948 - INFO - received: ALERT     |||000000|||
+2024-01-05 15:33:32,948 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 15:33:43,187 - INFO - handle client...
+2024-01-05 15:33:43,188 - INFO - received: VIDEO     |||256102|||video bytes
+2024-01-05 15:36:42,845 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 15:36:47,128 - INFO - Accepted connection from ('127.0.0.1', 50566)
+2024-01-05 15:36:53,689 - INFO - handle client...
+2024-01-05 15:36:53,689 - INFO - received: LOGIN     |||000024|||user1:password1:\u05d0\u05d1\u05d5 \u05ea\u05dc\u05d5\u05dc
+2024-01-05 15:36:53,695 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 15:36:53,695 - INFO - now logged users are: {('127.0.0.1', 50566): 'user1'}
+2024-01-05 15:36:55,457 - INFO - handle client...
+2024-01-05 15:36:55,457 - INFO - received: LOGGED    |||000000|||
+2024-01-05 15:36:55,457 - INFO - sent: MESSAGE   |||000005|||user1
+2024-01-05 15:36:57,140 - INFO - handle client...
+2024-01-05 15:36:57,141 - INFO - received: ALERT     |||000000|||
+2024-01-05 15:36:57,141 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 15:37:07,454 - INFO - handle client...
+2024-01-05 15:37:07,455 - INFO - received: VIDEO     |||296423|||video bytes
+2024-01-05 18:50:14,493 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 18:50:23,048 - INFO - Accepted connection from ('127.0.0.1', 50914)
+2024-01-05 18:50:36,345 - INFO - handle client...
+2024-01-05 18:50:36,345 - INFO - received: LOGIN     |||000023|||user1:password1:\u05d0\u05d1\u05d8\u05dc\u05d9\u05d5\u05df
+2024-01-05 18:50:36,350 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 18:50:36,350 - INFO - now logged users are: {('127.0.0.1', 50914): 'user1'}
+2024-01-05 18:50:39,052 - INFO - handle client...
+2024-01-05 18:50:39,052 - INFO - received: ALERT     |||000000|||
+2024-01-05 18:50:39,053 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 18:50:49,342 - INFO - handle client...
+2024-01-05 18:50:49,343 - INFO - received: VIDEO     |||258713|||video bytes
+2024-01-05 18:52:45,320 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 18:52:47,867 - INFO - Accepted connection from ('127.0.0.1', 50974)
+2024-01-05 18:53:01,102 - INFO - handle client...
+2024-01-05 18:53:01,102 - INFO - received: LOGIN     |||000026|||user1:password1:\u05d0\u05d1\u05d5 \u05e7\u05e8\u05d9\u05e0\u05d0\u05ea
+2024-01-05 18:53:01,106 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 18:53:01,106 - INFO - now logged users are: {('127.0.0.1', 50974): 'user1'}
+2024-01-05 18:53:02,755 - INFO - handle client...
+2024-01-05 18:53:02,755 - INFO - received: ALERT     |||000000|||
+2024-01-05 18:53:02,755 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 18:53:13,036 - INFO - handle client...
+2024-01-05 18:53:13,037 - INFO - received: VIDEO     |||244560|||video bytes
+2024-01-05 18:53:23,031 - INFO - handle client...
+2024-01-05 18:53:23,031 - INFO - received: LOGOUT    |||000000|||
+2024-01-05 18:53:23,031 - INFO - now logged users are: {}
+2024-01-05 18:53:23,032 - ERROR - Client has closed the connection.
+2024-01-05 18:53:23,032 - ERROR - Error receiving message from ('127.0.0.1', 50974): [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-01-05 18:56:34,397 - INFO - Server listening on 127.0.0.1:12345
+2024-01-05 18:56:36,926 - INFO - Accepted connection from ('127.0.0.1', 51088)
+2024-01-05 18:56:45,047 - INFO - handle client...
+2024-01-05 18:56:45,048 - INFO - received: LOGIN     |||000025|||user1:password1:\u05d0\u05d5\u05e8 \u05d4\u05d2\u05e0\u05d5\u05d6
+2024-01-05 18:56:45,053 - INFO - sent: MESSAGE   |||000018|||you are logged in!
+2024-01-05 18:56:45,054 - INFO - now logged users are: {('127.0.0.1', 51088): 'user1'}
+2024-01-05 18:56:46,632 - INFO - handle client...
+2024-01-05 18:56:46,632 - INFO - received: LOGGED    |||000000|||
+2024-01-05 18:56:46,632 - INFO - sent: MESSAGE   |||000005|||user1
+2024-01-05 18:56:48,097 - INFO - handle client...
+2024-01-05 18:56:48,098 - INFO - received: ALERT     |||000000|||
+2024-01-05 18:56:48,098 - INFO - sent: ALERT     |||000010|||\u05de\u05d5\u05d5\u05ea \u05dc\u05d7\u05de\u05d0\u05e1
+2024-01-05 18:56:58,369 - INFO - handle client...
+2024-01-05 18:56:58,370 - INFO - received: VIDEO     |||249988|||video bytes
+2024-01-07 13:06:12,668 - INFO - handle client...
+2024-01-07 13:06:12,669 - INFO - received: LOGOUT    |||000000|||
+2024-01-07 13:06:12,669 - INFO - now logged users are: {}
+2024-01-07 13:06:12,670 - ERROR - Client has closed the connection.
+2024-01-07 13:06:12,671 - ERROR - Error receiving message from ('127.0.0.1', 51088): [WinError 10054] An existing connection was forcibly closed by the remote host
